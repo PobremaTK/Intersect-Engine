@@ -44,6 +44,26 @@ public enum Control
 
     Hotkey0,
 
+    Hotkey10,
+
+    Hotkey11,
+
+    Hotkey12,
+
+    Hotkey13,
+
+    Hotkey14,
+
+    Hotkey15,
+
+    Hotkey16,
+
+    Hotkey17,
+
+    Hotkey18,
+
+    Hotkey19,
+
     Screenshot,
 
     OpenMenu,
